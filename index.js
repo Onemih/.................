@@ -12,7 +12,7 @@ var options =
 	},
 	identity: 
 	{
-		username: "Sradryson",
+		username: "SrAdryson",
 		password: "oauth:oauth:0a9o5qzf4olzwsss5wod3k4cnfbohw",  
 	},
 	channels: ['#johnpittertv', '#gaules',] //ADICIONA OS CANAIS AQ COM '#NOME'
